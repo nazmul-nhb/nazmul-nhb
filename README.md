@@ -6,8 +6,8 @@
 
 I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
 
-<h3>Skills:</h3>
-<p>
+<h3 align="left">Skills:</h3>
+<p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -42,8 +42,8 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nazmul-nhb)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=radical)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian)  
