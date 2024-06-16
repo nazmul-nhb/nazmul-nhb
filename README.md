@@ -1,15 +1,15 @@
-# Hi, 👋 Greetings from Nazmul Hassan
+# Hi, 👋 Greetings from Nazmul
 
 ## Front-End React Developer with MERN Stack Knowledge
 
-## 🌐 Social Links & Emails
+## 🌐 Social Links & Email
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nazmul-hassan-batchu)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmul.batchu)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nhb42)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazmulnhb@gmail.com)
-[![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:nazmulnhb007@yahoo.com)
 
 ## 💻 Skill Set
 
@@ -51,7 +51,7 @@
 
 ## Additional Information
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nazmul-hassan-batchu)
+[![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:nazmulnhb007@yahoo.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/nhb4207)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nhb42)
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/NazmulNHB)
