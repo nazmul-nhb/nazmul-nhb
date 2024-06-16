@@ -51,7 +51,7 @@
 
 ## Additional Information
 
-[![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white)](mailto:nazmulnhb007@yahoo.com)
+[![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:nazmulnhb007@yahoo.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/nhb4207)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nhb42)
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/NazmulNHB)
