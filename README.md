@@ -2,7 +2,7 @@
 
 ## Front-End React Developer with MERN Stack Knowledge
 
-## 🌐 Contact & Email
+## 🌐 Social Links & Emails
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmul.batchu)
