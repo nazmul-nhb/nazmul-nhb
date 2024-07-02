@@ -6,9 +6,7 @@
 
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
-    <br>
-        <img src="https://streak-stats.demolab.com?user=nazmul-nhb&theme=transparent&hide_border=true&ring=00000000&fire=00000000&currStreakLabel=00000000" alt="GitHub streak stats">
-
+      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </div>
 
 ## 🌐 Connect with Me
