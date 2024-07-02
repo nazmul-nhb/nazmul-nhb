@@ -2,16 +2,10 @@
 
 ## Front-End React Developer with MERN Stack Knowledge
 
-## Statistics
+## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian&bg_color=00000000" alt="Top Langs">
-    </a>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian&bg_color=00000000" alt="GitHub stats">
-    <br>
-    <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian&background=00000000" alt="GitHub streak stats">
+    <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 ## 🌐 Connect with Me
@@ -52,6 +46,16 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
+
+## Additional Stats
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian&bg_color=00000000" alt="Top Langs">
+    </a>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian&bg_color=00000000" alt="GitHub stats">
+</div>
 
 ## Additional Information
 
