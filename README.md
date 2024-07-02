@@ -1,12 +1,16 @@
 # Hi, 👋 Greetings from Nazmul
 
-<a href="https://nazmul-nhb.vercel.app">
+<a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
 <img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" />
 </a>
 
-## Front-End React Developer with MERN Stack Knowledge
+## About Me
 
-I am a Junior Front-End React Developer, passionate about developing responsive websites with user-friendly functionalities.
+### Front-End React Developer with MERN-Stack Knowledge
+
+I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Specializing in Front-End React Development, I bring creativity and precision to every project I undertake.
+
+I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -26,7 +30,7 @@ I am a Junior Front-End React Developer, passionate about developing responsive 
 
 ## 🛠️ Skill Set
 
-### 🎨 Front-End
+### 🎨 Front-End Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,7 +39,7 @@ I am a Junior Front-End React Developer, passionate about developing responsive 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js) -->
 
-### 🔧 Backend
+### 🔧 Backend Technologies
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
