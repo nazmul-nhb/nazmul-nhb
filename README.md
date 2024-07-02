@@ -6,14 +6,13 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian&bg_color=00000000" alt="Top Langs">
     </a>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian" alt="GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian&bg_color=00000000" alt="GitHub stats">
     <br>
-    <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian" alt="GitHub streak stats">
+    <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian&background=00000000" alt="GitHub streak stats">
 </div>
-
 
 ## 🌐 Connect with Me
 
