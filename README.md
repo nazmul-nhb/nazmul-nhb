@@ -5,11 +5,8 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats">
-    <br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&stroke=0D1117&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-    <br>
-      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+    <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
+    ><img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect with Me
