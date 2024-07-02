@@ -1,12 +1,18 @@
 # Hi, 👋 Greetings from Nazmul
 
+<a href="https://nazmul-nhb.vercel.app">
+<img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" />
+</a>
+
 ## Front-End React Developer with MERN Stack Knowledge
+
+I am a Junior Front-End React Developer, passionate about developing responsive websites with user-friendly functionalities.
 
 ## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    ><img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect with Me
@@ -51,9 +57,9 @@
 ## 📊 Additional Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparen" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparen" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent" alt="Top Languages">
 </div>
 
 ## ℹ️ Additional Information
