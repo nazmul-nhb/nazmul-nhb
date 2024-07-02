@@ -2,7 +2,20 @@
 
 ## Front-End React Developer with MERN Stack Knowledge
 
-## 🌐 Social Links & Email
+## Statistics
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian" alt="Top Langs">
+    </a>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian" alt="GitHub stats">
+    <br>
+    <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian" alt="GitHub streak stats">
+</div>
+
+
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmul.batchu)
@@ -20,7 +33,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js)
+<!-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js) -->
 
 ### 🛠️ Backend
 
@@ -40,14 +53,6 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
-
-## Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=prussian)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=prussian)
 
 ## Additional Information
 
