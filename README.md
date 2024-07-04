@@ -1,7 +1,7 @@
 # Hi, 👋 Greetings from Nazmul
-
+<!-- markdownlint-disable MD033 -->
 <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
-<img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" />
+    <img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" alt="Banner" />
 </a>
 
 ## 🧑‍💻 About Me
@@ -13,7 +13,7 @@ I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Speci
 I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
 
 ## :chart_with_upwards_trend: Current Stats
-
+<!-- markdownlint-disable MD033 -->
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="GitHub Streak" />
@@ -60,6 +60,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ## 📊 Additional Stats
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
     <br>
@@ -74,4 +75,4 @@ I'm committed to enhancing user experiences through innovative web applications.
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/NazmulNHB)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazmulbatchu/) -->
 
-![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I'm%20passionate%20about%20World%20Literature%20%26%20Mythology-000000?style=for-the-badge)
+![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20have%20a%20knack%20for%20World%20Literature%20%26%20Mythology-000000?style=for-the-badge)
