@@ -1,7 +1,7 @@
-# Hi, ![Wave](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) Greetings from Nazmul
+# Hi, ![Wave](./wave.svg) Greetings from Nazmul
 <!-- markdownlint-disable MD033 -->
 <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
-    <img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" alt="Banner" />
+    <img src="./banner.png" alt="Banner" />
 </a>
 
 <h1 align="center">
