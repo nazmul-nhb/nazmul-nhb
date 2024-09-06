@@ -4,9 +4,16 @@
     <img src="https://raw.githubusercontent.com/nazmul-nhb/nazmul-nhb/main/banner.png" alt="Banner" />
 </a>
 
+<h1 align="center">
+<!-- markdownlint-disable MD045 -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front+End+Developer;+MERN-+Stack+Developer;+Full-+Stack+Developer" />
+</h1>
+
 ## 🧑‍💻 About Me
 
-### Front-End React Developer with MERN-Stack Knowledge
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
+
+### Web Developer
 
 I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Specializing in Front-End React Development, I bring creativity and precision to every project I undertake.
 
