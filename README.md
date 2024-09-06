@@ -1,4 +1,4 @@
-# Hi, ![Wave](./wave.svg) Greetings from Nazmul
+# Hi, Greetings from Nazmul
 <!-- markdownlint-disable MD033 -->
 <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
     <img src="./banner.png" alt="Banner" />
@@ -9,9 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
 </h1>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
-
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
 
 I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer.
 
