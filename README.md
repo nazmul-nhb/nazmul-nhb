@@ -6,18 +6,18 @@
 
 <h1 align="center">
 <!-- markdownlint-disable MD045 -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front+End+Developer;+MERN-+Stack+Developer;+Full-+Stack+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
 </h1>
 
 ## 🧑‍💻 About Me
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
 
-### Web Developer
-
-I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Specializing in Front-End React Development, I bring creativity and precision to every project I undertake.
+I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer.
 
 I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
+
+<!-- Detail-oriented front-end developer specializing in ReactJS and TailwindCSS, passionate about delivering user-friendly web solutions. I am eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer. -->
 
 ## :chart_with_upwards_trend: Current Stats
 <!-- markdownlint-disable MD033 -->
