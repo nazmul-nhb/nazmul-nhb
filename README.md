@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
 </h1>
 
-## 🧑‍💻 About Me <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
+## 🧑‍💻 About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
 
 I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer.
 
@@ -39,6 +39,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +50,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
