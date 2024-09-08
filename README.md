@@ -70,12 +70,13 @@ I'm committed to enhancing user experiences through innovative web applications.
 ## 📊 Additional Stats
 
 <!-- markdownlint-disable MD033 -->
-<div align="center">
+<!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact" alt="Top Languages">
-    <!-- <img src="https://github-readme-stats-orpin-beta-33.vercel.app/api/top-langs/?username=nazmul-nhb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"> -->
-
+</div> -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact" alt="Top Languages" style="flex: 1;">
 </div>
 
 ## ℹ️ Additional Information
