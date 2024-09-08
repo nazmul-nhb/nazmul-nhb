@@ -22,7 +22,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
     <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Nazmul's GitHub Streak" /> -->
-    <img src="https://streak-stats.demolab.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Nazmul's GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Nazmul's GitHub Streak" style="width: 88%; max-width: 800px;">
 </div>
 
 ## 🌐 Connect with Me
@@ -71,9 +71,11 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 88%; max-width: 800px;">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact" alt="Top Languages" style="width: 88%; max-width: 800px;">
+    <!-- <img src="https://github-readme-stats-orpin-beta-33.vercel.app/api/top-langs/?username=nazmul-nhb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"> -->
+
 </div>
 
 ## ℹ️ Additional Information
