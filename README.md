@@ -1,28 +1,27 @@
 # Hi, Greetings from Nazmul
-<!-- markdownlint-disable MD033 -->
+
 <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
     <img src="./banner.png" alt="Banner" />
 </a>
 
 <h1 align="center">
-<!-- markdownlint-disable MD045 -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
+    <img alt="About Nazmul" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
 </h1>
 
-## 🧑‍💻 About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul-nhb&theme=transparent)
+
+## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
 
 I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer.
 
 I'm committed to enhancing user experiences through innovative web applications. By harnessing the power of React.js, I ensure that every web application I build is dynamic, engaging, and tailored to meet user expectations. My objective is to combine design and functionality to create engaging web experiences that deliver tangible value.
 
-<!-- Detail-oriented front-end developer specializing in ReactJS and TailwindCSS, passionate about delivering user-friendly web solutions. I am eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer. -->
-
 ## :chart_with_upwards_trend: Current Stats
-<!-- markdownlint-disable MD033 -->
+
 <div align="center">
     <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Nazmul's GitHub Streak" /> -->
-    <img src="https://streak-stats.demolab.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Nazmul's GitHub Streak">
+    <!-- <img alt="Nazmul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" /> -->
+    <img alt="Nazmul's GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307">
 </div>
 
 ## 🌐 Connect with Me
@@ -43,8 +42,8 @@ I'm committed to enhancing user experiences through innovative web applications.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux--toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-%23000000.svg?style=for-the-badge&logo=vue.js)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%23000000.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,15 +70,36 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ## 📊 Additional Stats
 
-<!-- markdownlint-disable MD033 -->
 <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact" alt="Top Languages">
 </div> -->
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact" alt="Top Languages" style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats" style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo" style="flex: 1;">
 </div>
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages" style="flex: 1;">
+</div>
+
+---
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=8" alt="Commit Times" style="flex: 1;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit" style="flex: 1;">
+</div>
+
+<!-- ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent) -->
+
+<!-- ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent) -->
+
+<!-- ![Sats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent) -->
+
+<!-- ![Commits Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=8) -->
 
 ## ℹ️ Additional Information
 
