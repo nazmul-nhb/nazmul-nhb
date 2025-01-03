@@ -74,21 +74,21 @@ I'm committed to enhancing user experiences through innovative web applications.
     <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact" alt="Top Languages">
 </div> -->
-<div style="display: flex; justify-content: between; align-items: center; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats" style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=8" alt="Commit Times" style="flex: 1;">
 </div>
 
 ---
 
-<div style="display: flex; justify-content: between; align-items: center; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
     <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages" style="flex: 1;">
 </div>
 
 ---
 
-<div style="display: flex; justify-content: between; align-items: center; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo" style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit" style="flex: 1;">
 </div>
