@@ -37,7 +37,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ### 🎨 Front-End Technologies
 
-![JavaScript](https://img.shields.io/badge/javascript-FAB617.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23E57B00.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux--toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -72,21 +72,21 @@ I'm committed to enhancing user experiences through innovative web applications.
 <!-- | ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent) | ![Commit Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6) |
 | --- | --- | -->
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin: 0 auto">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-left: auto; margin-right: auto;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats" style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6" alt="Commit Times" style="flex: 1;">
 </div>
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin: 0 auto">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-left: auto; margin-right: auto;">
     <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages" style="flex: 1;">
 </div>
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin: 0 auto">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-left: auto; margin-right: auto;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo" style="flex: 1;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit" style="flex: 1;">
 </div>
