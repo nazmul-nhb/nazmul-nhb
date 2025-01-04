@@ -58,8 +58,8 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ### 🔧 Backend Technologies
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
@@ -69,6 +69,8 @@ I'm committed to enhancing user experiences through innovative web applications.
 ![Vercel CLI](https://img.shields.io/badge/vercel%20cli-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/tanstack%20query-%2320232a.svg?style=for-the-badge&logo=react-query)
 ![Tanstack Table](https://img.shields.io/badge/tanstack%20table-%2320232a.svg?style=for-the-badge&logo=react-table)
+![Zod](https://img.shields.io/badge/Zod%20Validation-%2320232a?style=for-the-badge&logo=zod)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%2320232a?style=for-the-badge&logo=react-hook-form&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%2320232a.svg?style=for-the-badge&logo=stripe)
 ![JWT](https://img.shields.io/badge/JWT-%2320232a?style=for-the-badge&logo=JSON%20web%20tokens)
 ![GIT](https://img.shields.io/badge/Git-%2320232a?style=for-the-badge&logo=git)
