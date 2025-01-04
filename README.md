@@ -1,16 +1,22 @@
 # Hi, Greetings from Nazmul
 
-<a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
+<!-- <a href="https://nazmul-nhb.vercel.app" target="_blank" rel="noopener noreferrer" >
     <img src="./banner.png" alt="Banner" />
-</a>
+</a> -->
 
-<h1 align="center">
-    <img alt="About Nazmul" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer" />
-</h1>
+<div align="center">
 
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul-nhb&theme=transparent)
+[![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul-nhb&theme=transparent)](https://nazmul-nhb.vercel.app)
+
+</div>
 
 ## 🧑‍💻 About Me <img alt="Visitor Count" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nazmul-nhb.nazmul-nhb" />
+
+<div align="center">
+
+![Details](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=I'm+Nazmul+Hassan!;+Front-End+Developer;+ReactJS+Developer;+MERN-Stack+Developer;+Full-Stack+Developer)
+
+</div>
 
 I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager to join a forward-thinking team to shape the digital landscape through cutting-edge web development. Additionally, I aim to expand my expertise and grow into a full-stack developer.
 
@@ -19,15 +25,21 @@ I'm committed to enhancing user experiences through innovative web applications.
 ## :chart_with_upwards_trend: Current Stats
 
 <div align="center">
-    <!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-    <!-- <img alt="Nazmul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" /> -->
-    <img alt="Nazmul's GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307">
+
+![Nazmul's GitHub Streak](https://streak-stats.demolab.com/?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307)
+
 </div>
+
+<!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
+
+<!-- <img alt="Nazmul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" /> -->
+
+<!-- <img alt="Nazmul's GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307"> -->
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmul.batchu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nhb42)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazmulnhb@gmail.com)
@@ -51,7 +63,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 ### 🔧 Backend Technologies
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-2320232a?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
