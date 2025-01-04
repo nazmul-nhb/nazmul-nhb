@@ -30,11 +30,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 </div>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=nazmul-nhb&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Streak Stats"> -->
-
 <!-- <img alt="Nazmul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" /> -->
-
-<!-- <img alt="Nazmul's GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307"> -->
 
 ## 🌐 Connect with Me
 
@@ -81,35 +77,35 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ## 📊 Additional Stats
 
-<!-- | ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent) | ![Commit Times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6) |
-| --- | --- | -->
+<style>
+    .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 12px;
+        margin: 0 auto;
+    }
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-left: auto; margin-right: auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats" align="left" style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6" alt="Commit Times" align="right" style="flex: 1;">
+    .stats-grid img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+    }
+
+    @media (min-width: 840px) {
+        .stats-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+</style>
+
+<div class="stats-grid">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6" alt="Commit Times">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit">
 </div>
-
----
-
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-left: auto; margin-right: auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" align="left" alt="GitHub Stats" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages" align="right" style="flex: 1;">
-</div>
-
----
-
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-left: auto; margin-right: auto;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo" align="left" style="flex: 1;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit" align="right" style="flex: 1;">
-</div>
-
-<!-- ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent) -->
-
-<!-- ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent) -->
-
-<!-- ![Sats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent) -->
-
-<!-- ![Commits Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=8) -->
 
 ## ℹ️ Additional Information
 
