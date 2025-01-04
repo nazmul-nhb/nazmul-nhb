@@ -77,34 +77,36 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 ## 📊 Additional Stats
 
-<style>
-    .stats-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 12px;
-        margin: 0 auto;
-    }
-
-    .stats-grid img {
-        width: 100%;
-        height: auto;
-        border-radius: 8px;
-    }
-
-    @media (min-width: 840px) {
-        .stats-grid {
-            grid-template-columns: repeat(2, 1fr);
-        }
-    }
-</style>
-
-<div class="stats-grid">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6" alt="Commit Times">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit">
+<div align="center">
+    <!-- First Row -->
+    <table>
+        <tr>
+            <td align="center" width="50%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmul-nhb&theme=transparent" alt="GitHub Stats">
+            </td>
+            <td align="center" width="50%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmul-nhb&theme=transparent&utcOffset=6" alt="Commit Times">
+            </td>
+        </tr>
+        <!-- Second Row -->
+        <tr>
+            <td align="center" width="50%">
+                <img src="https://github-readme-stats.vercel.app/api?username=nazmul-nhb&show_icons=true&theme=transparent&include_all_commits=false&number_format=long&border_color=00000000" alt="GitHub Stats">
+            </td>
+            <td align="center" width="50%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul-nhb&show_icons=true&theme=transparent&layout=compact&border_color=00000000" alt="Top Languages">
+            </td>
+        </tr>
+        <!-- Third Row -->
+        <tr>
+            <td align="center" width="50%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Repo">
+            </td>
+            <td align="center" width="50%">
+                <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazmul-nhb&theme=transparent" alt="Top Languages by Commit">
+            </td>
+        </tr>
+    </table>
 </div>
 
 ## ℹ️ Additional Information
