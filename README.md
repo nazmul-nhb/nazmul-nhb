@@ -55,6 +55,8 @@ I'm committed to enhancing user experiences through innovative web applications.
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%231677FF?style=for-the-badge&logo=ant-design)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 
 ### 🔧 Backend Technologies
 
