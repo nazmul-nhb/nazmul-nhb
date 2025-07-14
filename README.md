@@ -122,3 +122,5 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazmulbatchu/) -->
 
 ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20have%20a%20knack%20for%20World%20Literature%20%26%20Mythology-000000?style=for-the-badge)
+
+<!-- End of File -->
