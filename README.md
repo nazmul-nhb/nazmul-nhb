@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul-nhb&theme=transparent)](https://nazmul-nhb.vercel.app)
+[![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmul-nhb&theme=transparent)](https://nazmul-nhb.dev)
 
 </div>
 
