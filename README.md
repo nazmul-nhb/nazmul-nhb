@@ -39,7 +39,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nhb42)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazmulnhb@gmail.com)
-<!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13540024/nazmul-hassan-batchu) -->
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13540024/nazmul-hassan-batchu)
 
 ## 🛠️ Skill Set
 
@@ -48,14 +48,14 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-669999?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)](https://redux-toolkit.js.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![SASS](https://img.shields.io/badge/SASS-SCSS-669999?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)](https://sass-lang.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)](https://ant.design/)
+[![Ant Design](https://img.shields.io/badge/Ant-Design-000?style=for-the-badge&logo=antdesign&logoColor=white&labelColor=0170FE)](https://ant.design/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![Mantine UI](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)](https://mantine.dev/)
 
@@ -79,8 +79,9 @@ I'm committed to enhancing user experiences through innovative web applications.
 ![Firebase Authentication](https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=dd2c00)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Vercel CLI](https://img.shields.io/badge/Vercel-CLI-gray?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black)](https://vercel.com/docs/cli)
-[![TanStack Query](https://img.shields.io/badge/TanStack-Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query/latest)
-[![TanStack Table](https://img.shields.io/badge/TanStack-Table-FF4154?style=for-the-badge&logo=react-table&logoColor=white)](https://tanstack.com/table)
+[![RTK Query](https://img.shields.io/badge/RTK-Query-669999?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)](https://redux-toolkit.js.org/)
+[![TanStack Query](https://img.shields.io/badge/TanStack-Query-669999?style=for-the-badge&logo=react-query&logoColor=white&labelColor=FF4154)](https://tanstack.com/query/latest)
+[![TanStack Table](https://img.shields.io/badge/TanStack-Table-669999?style=for-the-badge&logo=react-table&logoColor=white&labelColor=FF4154)](https://tanstack.com/table)
 [![React Hook Form](https://img.shields.io/badge/React-Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://react-hook-form.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 
