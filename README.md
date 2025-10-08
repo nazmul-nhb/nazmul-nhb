@@ -32,10 +32,10 @@ I'm committed to enhancing user experiences through innovative web applications.
 
 <!-- <img alt="Nazmul's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul-nhb&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" /> -->
 
-## 🌐 Connect with Me
+## 🌎 Socials & Contact
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nazmul.batchu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?logo=linkedin-white&logoColor=white)](https://linkedin.com/in/nazmul-nhb)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nhb42)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazmulnhb@gmail.com)
@@ -55,7 +55,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![SASS](https://img.shields.io/badge/SASS-SCSS-669999?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)](https://sass-lang.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Ant Design](https://img.shields.io/badge/Ant-Design-000?style=for-the-badge&logo=antdesign&logoColor=white&labelColor=0170FE)](https://ant.design/)
+[![Ant Design](https://img.shields.io/badge/Ant-Design-f74a5c?style=for-the-badge&logo=antdesign&logoColor=white&labelColor=0170FE)](https://ant.design/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 [![Mantine UI](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)](https://mantine.dev/)
 
