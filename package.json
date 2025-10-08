@@ -1,0 +1,23 @@
+{
+  "name": "nazmul-nhb",
+  "version": "2.0.0",
+  "description": "GitHub Markdown Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "commit": "nhb-commit",
+    "count": "nhb-count",
+    "delete": "nhb-delete"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Nazmul Hassan",
+    "email": "nazmulnhb@gmail.com",
+    "url": "https://nazmul-nhb.dev"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.1",
+  "devDependencies": {
+    "nhb-scripts": "^1.8.81",
+    "nhb-toolbox": "^4.20.86"
+  }
+}
