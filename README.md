@@ -53,7 +53,7 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-669999?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC)](https://redux-toolkit.js.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![SASS](https://img.shields.io/badge/SASS-SCSS-669999?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)](https://sass-lang.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Ant Design](https://img.shields.io/badge/Ant-Design-f74a5c?style=for-the-badge&logo=antdesign&logoColor=white&labelColor=0170FE)](https://ant.design/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
