@@ -85,9 +85,6 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![React Hook Form](https://img.shields.io/badge/React-Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)](https://react-hook-form.com/)
 [![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 
-<!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) -->
-<!-- ![Adobe Acrobat Pro](https://img.shields.io/badge/Adobe%20Acrobat%20Pro-EC1C24?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white) -->
-
 ## 📊 Additional Stats
 
 <div align="center">
@@ -127,8 +124,6 @@ I'm committed to enhancing user experiences through innovative web applications.
 [![Yahoo](https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:nazmulnhb007@yahoo.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/nhb4207)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nhb42)
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/NazmulNHB)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazmulbatchu/) -->
 
 ![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20have%20a%20knack%20for%20World%20Literature%20%26%20Mythology-000000?style=for-the-badge)
 
