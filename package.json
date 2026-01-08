@@ -1,6 +1,6 @@
 {
   "name": "nazmul-nhb",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "GitHub Markdown Portfolio",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,9 @@
     "url": "https://nazmul-nhb.dev"
   },
   "license": "ISC",
-  "packageManager": "pnpm@10.18.1",
+  "packageManager": "pnpm@10.27.0+sha512.72d699da16b1179c14ba9e64dc71c9a40988cbdc65c264cb0e489db7de917f20dcf4d64d8723625f2969ba52d4b7e2a1170682d9ac2a5dcaeaab732b7e16f04a",
   "devDependencies": {
-    "nhb-scripts": "^1.8.81",
-    "nhb-toolbox": "^4.20.86"
+    "nhb-scripts": "^1.9.2",
+    "nhb-toolbox": "^4.28.57"
   }
 }
