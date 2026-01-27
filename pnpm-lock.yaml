@@ -12,8 +12,8 @@ importers:
         specifier: ^1.9.2
         version: 1.9.2
       nhb-toolbox:
-        specifier: ^4.28.57
-        version: 4.28.57
+        specifier: ^4.28.66
+        version: 4.28.66
 
 packages:
 
@@ -185,8 +185,8 @@ packages:
     resolution: {integrity: sha512-vlP11XfFGyeNQlmEn9tJ66rEW1coA/79m5z6BCkudjbAGE83uhAcGYrBFwfs3AdLiLzGRusRPAbSPK9xZteCmg==}
     engines: {node: '>=4'}
 
-  lru-cache@11.2.4:
-    resolution: {integrity: sha512-B5Y16Jr9LB9dHVkh6ZevG+vAbOsNOYCX+sXvFWFu7B3Iz5mijW3zdbMyhsh8ANd2mSWBYdJgnqi+mL7/LrOPYg==}
+  lru-cache@11.2.5:
+    resolution: {integrity: sha512-vFrFJkWtJvJnD5hg+hJvVE8Lh/TcMzKnTgCWmtBipwI5yLX/iX+5UB2tfuyODF5E7k9xEzMdYgGqaSb1c0c5Yw==}
     engines: {node: 20 || >=22}
 
   merge2@1.4.1:
@@ -217,8 +217,8 @@ packages:
     engines: {node: '>=22'}
     hasBin: true
 
-  nhb-toolbox@4.28.57:
-    resolution: {integrity: sha512-GYcWJ6m7k9yA9QF3Voy6WJjKHi5ptjX3DMXNd5gtXmjauuK/S0grQH7AP378RPFNTZiuD+LjNj9XFhYvJWuPgA==}
+  nhb-toolbox@4.28.66:
+    resolution: {integrity: sha512-lqXsfMr1XpJa49MhziRdIvk83upNdur0HfVXa6sdnVE3Tqqns1XFvlupUA+KTJJmks3kycQ+7ZQFDS9A00kcxQ==}
 
   npm-run-path@6.0.0:
     resolution: {integrity: sha512-9qny7Z9DsQU8Ou39ERsPU4OZQlSTP47ShQzuKZ6PRXpYLtIFgl/DEBYEXKlvcEa+9tHVcK8CF81Y2V72qaZhWA==}
@@ -331,8 +331,8 @@ packages:
     resolution: {integrity: sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ==}
     engines: {node: '>=8.0'}
 
-  type-fest@5.3.1:
-    resolution: {integrity: sha512-VCn+LMHbd4t6sF3wfU/+HKT63C9OoyrSIf4b+vtWHpt2U7/4InZG467YDNMFMR70DdHjAdpPWmw2lzRdg0Xqqg==}
+  type-fest@5.4.2:
+    resolution: {integrity: sha512-FLEenlVYf7Zcd34ISMLo3ZzRE1gRjY1nMDTp+bQRBiPsaKyIW8K3Zr99ioHDUgA9OGuGGJPyYpNcffGmBhJfGg==}
     engines: {node: '>=20'}
 
   typescript@5.9.3:
@@ -529,7 +529,7 @@ snapshots:
       cli-cursor: 2.1.0
       wrap-ansi: 3.0.1
 
-  lru-cache@11.2.4: {}
+  lru-cache@11.2.5: {}
 
   merge2@1.4.1: {}
 
@@ -555,14 +555,14 @@ snapshots:
       execa: 9.6.1
       globby: 16.1.0
       minimist: 1.2.8
-      nhb-toolbox: 4.28.57
+      nhb-toolbox: 4.28.66
       progress-estimator: 0.3.1
       rimraf: 6.1.2
       semver: 7.7.3
-      type-fest: 5.3.1
+      type-fest: 5.4.2
       typescript: 5.9.3
 
-  nhb-toolbox@4.28.57: {}
+  nhb-toolbox@4.28.66: {}
 
   npm-run-path@6.0.0:
     dependencies:
@@ -583,7 +583,7 @@ snapshots:
 
   path-scurry@2.0.1:
     dependencies:
-      lru-cache: 11.2.4
+      lru-cache: 11.2.5
       minipass: 7.1.2
 
   picocolors@1.1.1: {}
@@ -656,7 +656,7 @@ snapshots:
     dependencies:
       is-number: 7.0.0
 
-  type-fest@5.3.1:
+  type-fest@5.4.2:
     dependencies:
       tagged-tag: 1.0.0
 
