@@ -47,7 +47,7 @@ I'm Nazmul Hassan, a tech enthusiast driven by the art of web development. Eager
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+8801623732187)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nhb42)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazmulnhb@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13540024/nazmul-hassan-batchu)
+<!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13540024/nazmul-hassan-batchu) -->
 
 ## 🛠️ Skill Set
 
